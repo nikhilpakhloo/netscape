@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "448783542393",
+    "project_id": "social-app-2b29f",
+    "storage_bucket": "social-app-2b29f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448783542393:android:0c42aa87f6aee4a0884ca8",
+        "android_client_info": {
+          "package_name": "com.nikhilpakhloo.insta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448783542393-es4q02b11c1ab5jt6k238akms9ch2jlt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nikhilpakhloo.insta",
+            "certificate_hash": "c5c77e0537c8aabdeb7d2c616fb8fff0fc771263"
+          }
+        },
+        {
+          "client_id": "448783542393-7m5pg9qik4272a6klpeu7qqccknf7qck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuwPgg3-NHMRwDW2WrRllZzphxFGbdrpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448783542393-7m5pg9qik4272a6klpeu7qqccknf7qck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
